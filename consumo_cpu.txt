@@ -1,0 +1,234 @@
+Load: 0.0 / 0.0 / 0.0
+CPU usage from 315803ms to 15692ms ago (2026-11-15 17:09:49.316 to 2026-11-15 17:14:49.428) with 99% awake:
+29% TOTAL: 17% user + 10% kernel + 0.3% iowait + 1.5% irq + 0.6% softirq
+  52% 21169/com.google.android.youtube: 37% user + 14% kernel / faults: 96457 minor 249 major
+  35% 1464/surfaceflinger: 22% user + 12% kernel / faults: 1310 minor 146 major
+  25% 20565/com.spotify.music: 23% user + 2.4% kernel / faults: 46676 minor 336 major
+  14% 21061/android.hardware.audio.service: 12% user + 1.7% kernel / faults: 76 minor 4 major
+  13% 1853/system_server: 6.7% user + 7.1% kernel / faults: 116300 minor 662 major
+  13% 1436/media.hwcodec: 5.4% user + 7.9% kernel / faults: 27471 minor 3 major
+  9.3% 1421/vendor.qti.hardware.display.composer-service: 5.6% user + 3.7% kernel / faults: 74666 minor 3 major
+  5.9% 4065/com.android.systemui: 4.4% user + 1.4% kernel / faults: 27614 minor 3900 major
+  2.9% 20881/com.google.android.gms: 1.8% user + 1.1% kernel / faults: 29406 minor 3173 major
+  2.9% 21062/audioserver: 1.8% user + 1% kernel / faults: 1284 minor 29 major
+  2.5% 19628/com.instagram.android: 1.4% user + 1.1% kernel / faults: 62086 minor 43177 major
+  2.5% 2008/kworker/u16:5-events_unbound: 0% user + 2.5% kernel
+  2.2% 381/crtc_commit:82: 0% user + 2.2% kernel
+  2.1% 19056/kworker/u16:3-memlat_wq: 0% user + 2.1% kernel
+  2% 1405/android.hardware.wifi@1.0-service: 1.1% user + 0.9% kernel / faults: 8086 minor 87 major
+  1.9% 22166/cds_ol_rx_threa: 0% user + 1.9% kernel
+  1.7% 123/kswapd-1:0: 0% user + 1.7% kernel
+  1.7% 9775/kworker/u16:6-events_unbound: 0% user + 1.7% kernel
+  1.6% 12/rcuog/0: 0% user + 1.6% kernel
+  1.4% 19055/kworker/u16:2-ufs_clkscaling_0: 0% user + 1.4% kernel
+  1.4% 21353/com.google.android.apps.messaging: 0.9% user + 0.5% kernel / faults: 27938 minor 2624 major
+  1.4% 19667/kworker/u16:16-kverityd: 0% user + 1.4% kernel
+  1.2% 14084/irq/17-4520300.: 0% user + 1.2% kernel
+  1.2% 11/rcu_preempt: 0% user + 1.2% kernel
+  1.1% 433/ueventd: 1% user + 0% kernel
+  1% 18525/com.google.android.deskclock: 0.7% user + 0.3% kernel / faults: 36823 minor 5685 major
+  0.9% 22983/com.inmobi.weather: 0.7% user + 0.2% kernel / faults: 22328 minor 2070 major
+  0.9% 187/kgsl_worker_thr: 0% user + 0.9% kernel
+  0.8% 39/rcuog/4: 0% user + 0.8% kernel
+  0.7% 4315/com.android.phone: 0.4% user + 0.3% kernel / faults: 6425 minor 444 major
+  0.7% 690/logd: 0.2% user + 0.4% kernel / faults: 2276 minor 26 major
+  0.6% 1300/statsd: 0.3% user + 0.2% kernel / faults: 3 minor 44 major
+  0.5% 1390/android.hardware.sensors@2.0-service.multihal: 0.2% user + 0.2% kernel / faults: 80 minor 9 major
+  0.5% 24883/thermal-engine: 0.1% user + 0.4% kernel / faults: 9 minor 2 major
+  0.5% 382/crtc_event:82: 0% user + 0.5% kernel
+  0.4% 19859/com.huawei.health:DaemonService: 0.2% user + 0.1% kernel / faults: 10134 minor 2644 major
+  0.4% 19504/kworker/u16:11-events_unbound: 0% user + 0.4% kernel
+  0.3% 25448/com.life360.android.safetymapd: 0.1% user + 0.2% kernel / faults: 1492 minor 1131 major
+  0.3% 25335/com.life360.android.safetymapd:service: 0.1% user + 0.1% kernel / faults: 1461 minor 576 major
+  0.3% 4223/com.android.networkstack.process: 0.2% user + 0.1% kernel / faults: 2911 minor 30 major
+  0.3% 27/rcuop/2: 0% user + 0.3% kernel
+  0.3% 33/rcuop/3: 0% user + 0.3% kernel
+  0.3% 21673/com.android.bluetooth: 0.1% user + 0.2% kernel / faults: 314 minor 126 major
+  0.3% 1301/netd: 0% user + 0.2% kernel / faults: 1551 minor 14 major
+  0.3% 21/rcuop/1: 0% user + 0.3% kernel
+  0.2% 1399/android.hardware.health@2.1-service: 0% user + 0.2% kernel
+  0.2% 13/rcuop/0: 0% user + 0.2% kernel
+  0.2% 18/ksoftirqd/1: 0% user + 0.2% kernel
+  0.2% 25757/com.google.android.apps.messaging:rcs: 0.1% user + 0% kernel / faults: 5119 minor 2755 major
+  0.2% 1978/qcrilNrd: 0.1% user + 0.1% kernel / faults: 540 minor 432 major
+  0.2% 22204/com.google.android.gms.unstable: 0.1% user + 0.1% kernel / faults: 12850 minor 10134 major
+  0.2% 19880/com.huawei.health:PhoneService: 0% user + 0.1% kernel / faults: 1276 minor 473 major
+  0.2% 8030/com.motorola.timeweatherwidget:another: 0.1% user + 0% kernel / faults: 11036 minor 123 major
+  0.2% 58/rcuop/7: 0% user + 0.2% kernel
+  0.1% 52/rcuop/6: 0% user + 0.1% kernel
+  0.1% 809/f2fs_gc-254:58: 0% user + 0.1% kernel
+  0.1% 19058/kworker/u16:4-kverityd: 0% user + 0.1% kernel
+  0.1% 22165/scheduler_threa: 0% user + 0.1% kernel
+  0.1% 21414/com.google.android.googlequicksearchbox:search: 0% user + 0% kernel / faults: 7889 minor 3533 major
+  0.1% 2086/hvdcp_opti: 0% user + 0.1% kernel
+  0.1% 1/init: 0% user + 0% kernel / faults: 4 minor 1 major
+  0.1% 46/rcuop/5: 0% user + 0.1% kernel
+  0.1% 40/rcuop/4: 0% user + 0.1% kernel
+  0.1% 35/migration/4: 0% user + 0.1% kernel
+  0.1% 42/migration/5: 0% user + 0.1% kernel
+  0.1% 4963/msm_irqbalance: 0% user + 0% kernel
+  0.1% 1430/vendor.qti.hardware.perf@2.2-service: 0% user + 0% kernel / faults: 276 minor 1 major
+  0.1% 691/lmkd: 0% user + 0% kernel
+  0.1% 710/android.hardware.keymaster@4.1-service-qti: 0% user + 0.1% kernel
+  0.1% 19245/kworker/u17:7-kgsl-events: 0% user + 0.1% kernel
+  0.1% 1776/cnd: 0% user + 0% kernel / faults: 33 minor 98 major
+  0% 3838/com.dti.motorola: 0% user + 0% kernel / faults: 383 minor 22 major
+  0% 9597/kworker/u17:1-kgsl-events: 0% user + 0% kernel
+  0% 216/core_ctl/0: 0% user + 0% kernel
+  0% 4408/com.motorola.actions: 0% user + 0% kernel / faults: 268 minor 1 major
+  0% 20360/com.whatsapp: 0% user + 0% kernel / faults: 293 minor 8 major
+  0% 761/android.system.suspend-service: 0% user + 0% kernel / faults: 2 minor 18 major
+  0% 1420/vendor.qti.hardware.display.allocator-service: 0% user + 0% kernel / faults: 334 minor
+  0% 23085/com.motorola.launcher3: 0% user + 0% kernel / faults: 398 minor 176 major
+  0% 140/system: 0% user + 0% kernel
+  0% 1273/ipacm: 0% user + 0% kernel / faults: 5 minor
+  0% 14352/kworker/1:5-events: 0% user + 0% kernel
+  0% 16921/kworker/2:1: 0% user + 0% kernel
+  0% 19244/kworker/u17:4-kgsl-events: 0% user + 0% kernel
+  0% 1753/mediaserver32: 0% user + 0% kernel / faults: 196 minor 269 major
+  0% 10/ksoftirqd/0: 0% user + 0% kernel
+  0% 4273/org.codeaurora.ims: 0% user + 0% kernel / faults: 379 minor 378 major
+  0% 682/irq/297-goodix_: 0% user + 0% kernel
+  0% 2068/wpa_supplicant: 0% user + 0% kernel / faults: 50 minor 6 major
+  0% 4268/.qtidataservices: 0% user + 0% kernel / faults: 266 minor 251 major
+  0% 5776/com.motorola.modemservice: 0% user + 0% kernel / faults: 548 minor 46 major
+  0% 692/servicemanager: 0% user + 0% kernel / faults: 2 minor 2 major
+  0% 15199/kworker/u17:6-kgsl-events: 0% user + 0% kernel
+  0% 1826/netmgrd: 0% user + 0% kernel / faults: 2002 minor 128 major
+  0% 2054/kworker/1:3-pm: 0% user + 0% kernel
+  0% 6108/com.android.vending: 0% user + 0% kernel / faults: 1107 minor 1374 major
+  0% 32183/com.facebook.services: 0% user + 0% kernel / faults: 285 minor 81 major
+  0% 359/rot_commitq_0_0: 0% user + 0% kernel
+  0% 1393/android.hardware.bluetooth@1.0-service-qti: 0% user + 0% kernel / faults: 1 minor 3 major
+  0% 12293/com.google.android.inputmethod.latin: 0% user + 0% kernel / faults: 243 minor 96 major
+  0% 17566/kworker/7:1-events_freezable_power_: 0% user + 0% kernel
+  0% 695/psimon: 0% user + 0% kernel
+  0% 17072/adbd: 0% user + 0% kernel / faults: 22 minor 6 major
+  0% 21536/com.motorola.motocare: 0% user + 0% kernel / faults: 139 minor 50 major
+  0% 22387/kworker/3:1-sock_diag_events: 0% user + 0% kernel
+  0% 617/wlan_logging_th: 0% user + 0% kernel
+  0% 4270/com.qti.phone: 0% user + 0% kernel / faults: 72 minor 44 major
+  0% 1302/zygote64: 0% user + 0% kernel / faults: 429 minor
+  0% 22374/kworker/6:0-events: 0% user + 0% kernel
+  0% 1756/wificond: 0% user + 0% kernel / faults: 21 major
+  0% 1936/android.hardware.biometrics.fingerprint@2.1-service-ets: 0% user + 0% kernel
+  0% 2005/qcrilNrd: 0% user + 0% kernel / faults: 72 minor 49 major
+  0% 5896/com.motorola.mobiledesktop.core: 0% user + 0% kernel / faults: 158 minor 67 major
+  0% 14422/android.process.media: 0% user + 0% kernel / faults: 38 minor
+  0% 22375/kworker/5:2-events: 0% user + 0% kernel
+  0% 22893/com.motorola.dolby.dolbyui: 0% user + 0% kernel / faults: 2400 minor 425 major
+  0% 1591/diag-router: 0% user + 0% kernel / faults: 13 minor 21 major
+  0% 12124/com.android.settings: 0% user + 0% kernel / faults: 606 minor 695 major
+  0% 22950/com.motorola.freeform: 0% user + 0% kernel / faults: 238 minor 15 major
+  0% 30736/kworker/4:0-sock_diag_events: 0% user + 0% kernel
+  0% 72/kcompactd0: 0% user + 0% kernel
+  0% 1887/cnss-daemon: 0% user + 0% kernel
+  0% 17881/kworker/0:1-events: 0% user + 0% kernel
+  0% 22858/com.motorola.moto: 0% user + 0% kernel / faults: 1796 minor 25 major
+  0% 363/rot_fenceq_0_0: 0% user + 0% kernel
+  0% 2907/kworker/2:2H-kblockd: 0% user + 0% kernel
+  0% 19129/com.google.android.googlequicksearchbox:interactor: 0% user + 0% kernel / faults: 90 minor 1 major
+  0% 20089/kworker/1:2H-kblockd: 0% user + 0% kernel
+  0% 693/hwservicemanager: 0% user + 0% kernel / faults: 3 major
+  0% 1412/motorola.hardware.health@2.0-service: 0% user + 0% kernel
+  0% 1739/cameraserver: 0% user + 0% kernel
+  0% 1956/lowi-server: 0% user + 0% kernel / faults: 5 major
+  0% 3035/kworker/7:4H-fsverity_read_queue: 0% user + 0% kernel
+  0% 4266/.dataservices: 0% user + 0% kernel / faults: 48 minor 2 major
+  0% 4271/com.dolby.daxservice: 0% user + 0% kernel / faults: 70 minor 22 major
+  0% 5743/com.motorola.nrmodemservice: 0% user + 0% kernel / faults: 79 minor 15 major
+  0% 18345/kworker/0:2H-kblockd: 0% user + 0% kernel
+  0% 22681/com.google.android.cellbroadcastreceiver: 0% user + 0% kernel / faults: 2737 minor 525 major
+  0% 361/rot_doneq_0_0: 0% user + 0% kernel
+  0% 762/keystore2: 0% user + 0% kernel / faults: 57 minor 35 major
+  0% 2034/kworker/3:3-events: 0% user + 0% kernel
+  0% 2187/kworker/3:0H-kblockd: 0% user + 0% kernel
+  0% 22285/com.google.android.adservices.api: 0% user + 0% kernel / faults: 2613 minor 595 major
+  0% 24653/kworker/7:2-kdmflush: 0% user + 0% kernel
+  0% 1332/iptables-restore: 0% user + 0% kernel
+  0% 1398/android.hardware.gnss@2.1-service-qti: 0% user + 0% kernel / faults: 54 minor 1 major
+  0% 3762/kworker/6:3-rcu_gp: 0% user + 0% kernel
+  0% 5744/com.motorola.thermalservice: 0% user + 0% kernel / faults: 45 minor
+  0% 17551/kworker/1:0-events: 0% user + 0% kernel
+  0% 22872/com.motorola.personalize: 0% user + 0% kernel / faults: 1911 minor 221 major
+  0% 22923/com.motorola.motcameradesktop: 0% user + 0% kernel / faults: 1659 minor 8 major
+  0% 23156/com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0: 0% user + 0% kernel / faults: 519 minor 113 major
+  0% 14/migration/0: 0% user + 0% kernel
+  0% 340/spi0: 0% user + 0% kernel
+  0% 1333/ip6tables-restore: 0% user + 0% kernel
+  0% 1752/media.metrics: 0% user + 0% kernel / faults: 412 minor 506 major
+  0% 17/migration/1: 0% user + 0% kernel
+  0% 70/oom_reaper: 0% user + 0% kernel
+  0% 684/prng_seeder: 0% user + 0% kernel / faults: 2 major
+  0% 721/vold: 0% user + 0% kernel
+  0% 880/loop14: 0% user + 0% kernel
+  0% 918/loop34: 0% user + 0% kernel
+  0% 1401/android.hardware.memtrack@1.0-service: 0% user + 0% kernel
+  0% 1749/media.extractor: 0% user + 0% kernel / faults: 15 minor 33 major
+  0% 1754/storaged: 0% user + 0% kernel
+  0% 1886/media.swcodec: 0% user + 0% kernel / faults: 41 minor 33 major
+  0% 4910/com.google.android.ext.services: 0% user + 0% kernel / faults: 15 minor 1 major
+  0% 5655/com.google.android.providers.media.module: 0% user + 0% kernel / faults: 25 minor 4 major
+  0% 5762/com.motorola.dciservice: 0% user + 0% kernel / faults: 60 minor 94 major
+  0% 6939/kworker/6:4H-kblockd: 0% user + 0% kernel
+  0% 12851/kworker/u17:5-kgsl-events: 0% user + 0% kernel
+  0% 14569/kworker/5:0H-kblockd: 0% user + 0% kernel
+  0% 18976/kworker/u17:0: 0% user + 0% kernel
+  0% 23/migration/2: 0% user + 0% kernel
+  0% 29/migration/3: 0% user + 0% kernel
+  0% 64/kauditd: 0% user + 0% kernel
+  0% 65/qrtr_ns: 0% user + 0% kernel
+  0% 923/loop39: 0% user + 0% kernel
+  0% 1404/android.hardware.usb@1.2-service-qti: 0% user + 0% kernel
+  0% 1408/motorola.hardware.camera.desktop@2.0-service: 0% user + 0% kernel
+  0% 1796/imsdaemon: 0% user + 0% kernel / faults: 31 minor 95 major
+  0% 1835/poweropt-service: 0% user + 0% kernel
+  0% 1907/sh: 0% user + 0% kernel / faults: 388 minor 29 major
+  0% 2629/android.hardware.thermal@2.0-service.qti: 0% user + 0% kernel
+  0% 4940/capsense_reset: 0% user + 0% kernel
+  0% 5850/com.google.android.permissioncontroller: 0% user + 0% kernel / faults: 15 minor
+  0% 20725/kworker/4:0H-kblockd: 0% user + 0% kernel
+  0% 24/ksoftirqd/2: 0% user + 0% kernel
+  0% 30/ksoftirqd/3: 0% user + 0% kernel
+  0% 36/ksoftirqd/4: 0% user + 0% kernel
+  0% 49/ksoftirqd/6: 0% user + 0% kernel
+  0% 55/ksoftirqd/7: 0% user + 0% kernel
+  0% 138/ion-pool-uncach: 0% user + 0% kernel
+  0% 139/ion-pool-cached: 0% user + 0% kernel
+  0% 176/irq/209-smp2p: 0% user + 0% kernel
+  0% 205/irq/216-qg-fifo: 0% user + 0% kernel
+  0% 264/irq/267-aicl-do: 0% user + 0% kernel
+  0% 808/f2fs_discard-25: 0% user + 0% kernel
+  0% 868/loop5: 0% user + 0% kernel
+  0% 883/loop15: 0% user + 0% kernel
+  0% 1353/qrtr_rx: 0% user + 0% kernel
+  0% 1417/vendor.dolby.hardware.dms@2.1-service: 0% user + 0% kernel
+  0% 1468/tftp_server: 0% user + 0% kernel / faults: 47 minor 47 major
+  0% 1660/traced: 0% user + 0% kernel / faults: 6 minor
+  0% 1707/dpmd: 0% user + 0% kernel
+  0% 1817/qrtr_rx: 0% user + 0% kernel
+  0% 1961/xtra-daemon: 0% user + 0% kernel / faults: 71 minor 139 major
+  0% 5255/com.qualcomm.location: 0% user + 0% kernel
+  0% 5667/com.google.android.as: 0% user + 0% kernel / faults: 5 minor
+  0% 5723/com.android.nfc: 0% user + 0% kernel / faults: 7 minor 1 major
+  0% 5902/com.motorola.ccc: 0% user + 0% kernel
+  0% 6056/com.motorola.msimsettings: 0% user + 0% kernel / faults: 14 minor
+  0% 19005/com.motorola.carriersettingsext: 0% user + 0% kernel / faults: 17 minor 22 major
+  0% 20318/com.facebook.services:iab_sandboxed_process1:com.facebook.oxygen.services.helium.trampoline.Helium: 0% user + 0% kernel / faults: 79 minor 115 major
+ +0% 23429/kworker/1:1-events: 0% user + 0% kernel
+ +0% 23790/kworker/2:0H-kblockd: 0% user + 0% kernel
+ +0% 23959/kworker/0:2-events: 0% user + 0% kernel
+ +0% 24033/com.google.android.googlequicksearchbox:googleapp: 0% user + 0% kernel
+ +0% 24052/kworker/6:1H-kblockd: 0% user + 0% kernel
+ +0% 24193/sleep: 0% user + 0% kernel
+ +0% 24295/android.process.acore: 0% user + 0% kernel
+ +0% 24311/kworker/u16:0-kverityd: 0% user + 0% kernel
+ +0% 24324/com.google.android.dialer: 0% user + 0% kernel
+ +0% 24358/com.google.android.tts: 0% user + 0% kernel
+ +0% 24375/com.google.android.safetycore: 0% user + 0% kernel
+ +0% 24437/com.motorola.lifetimedata: 0% user + 0% kernel
+ +0% 24454/com.android.calllogbackup: 0% user + 0% kernel
+ +0% 24488/com.motorola.appdirectedsmsproxy: 0% user + 0% kernel
+ +0% 24730/com.motorola.mobiledesktop: 0% user + 0% kernel
+ +0% 24736/com.motorola.ccc.ota: 0% user + 0% kernel
+ +0% 24834/kworker/7:0-events: 0% user + 0% kernel
